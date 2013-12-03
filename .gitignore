@@ -1,0 +1,46 @@
+# Generic Files #
+*~
+*.lock
+*.swp
+*.out
+*.tmp
+*.bak
+*.swp
+
+# Directories #
+build/
+bin/
+target/
+tmp/
+out/
+ 
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+ 
+# Logs #
+*.log
+
+# Generated Files #
+*.class
+*.jar
+*.war
+
+# Eclipse #
+.project
+.classpath
+.settings/
+.metadata
+.classpath
+.springBeans
+
+# IntelliJ #
+.idea/
+*.iml
+
